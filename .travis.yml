@@ -1,4 +1,5 @@
 # latest dmd, gdc and ldc
+language: d
 d:
   - dmd
   - gdc
